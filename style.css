@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(43, 25, 202);
+    text-align: center;
+}
+
+.Form {
+    max-width: 720px;
+    background-color: rgb(209, 189, 164);
+    margin: 0 auto;
+}
+
+.Form-Item {
+    display: flex;
+    align-items: center;
+    border-top: 1px solid rgb(202, 103, 37);
+}
+.Form-Item:nth-child(6){
+    border-bottom: 1px rgb(207, 162, 109);
+}
+.Form-Item-Label{
+    width: 100%;
+    max-width: 240px;
+}
+.Form-Item-Label{
+    
+
+}
